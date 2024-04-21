@@ -1,2 +1,2 @@
 # Web_Application_Project
-웨 활용 프로젝트입니다.
+웹 활용 프로젝트입니다.
